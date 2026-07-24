@@ -317,4 +317,129 @@ The Historical Route & Environmental Monitoring Dashboard enabled operations tea
 - Improve route monitoring through interactive visualizations.
 - Support operational planning with location-specific insights.
 - Detect transportation patterns that may require proactive intervention.
+---
+---
+
+# 📄 Page 3 — Risk Analytics
+
+## 🎯 Dashboard Objective
+
+The **Risk Analytics Dashboard** provides a comprehensive view of shipment risks by analyzing environmental conditions, spoilage probability, vibration levels, and market trends. It empowers decision-makers to identify high-risk shipments, prioritize operational actions, and make informed logistics decisions through interactive analytics.
+
+### 📌 KPI Cards
+
+- ⚠️ High-Risk Shipments
+- 📊 Average Spoilage Risk
+- 💧 Average Humidity
+- 📈 Average Vibration
+
+### 📊 Visualizations
+
+- 📊 Vibration by Commodity
+- 🌍 Commodity Environmental Profile
+- 💰 Average Market Price by Destination
+- 📉 Average Spoilage Risk by Recommended Action
+- 🎯 High-Risk Shipment Gauge
+
+### 🎛️ Interactive Filters
+
+- Commodity
+- Destination
+- Recommended Action
+- Risk Category
+
+---
+
+# 📄 Week 3 — Risk Analytics Dashboard
+
+## 🔴 Business Problem
+
+Although operational teams could now monitor shipment routes and environmental conditions, they still lacked a dedicated risk assessment system to support critical decision-making.
+
+Several important business questions remained unanswered:
+
+- Which shipments are classified as high risk?
+- Which commodities experience the highest vibration during transportation?
+- Which operational action should be taken for different shipment conditions?
+- Which destinations have higher market value?
+- What is the current overall shipment risk level?
+
+The organization required a dedicated dashboard focused on **risk monitoring and operational decision support**.
+
+---
+
+## ✅ Solution Implemented
+
+Developed the **Risk Analytics Dashboard** to evaluate shipment risk and provide actionable insights for logistics managers through interactive KPIs and visualizations.
+
+### Key Features
+
+#### 📌 KPI Cards
+
+- High-Risk Shipments
+- Average Spoilage Risk
+- Average Humidity
+- Average Vibration
+
+#### 📊 Visualizations
+
+- Vibration by Commodity
+- Commodity Environmental Profile
+- Average Market Price by Destination
+- Average Spoilage Risk by Recommended Action
+- High-Risk Shipment Gauge
+
+#### 🎛️ Interactive Filters
+
+- Commodity
+- Destination
+- Recommended Action
+- Risk Category
+
+---
+
+## 🎯 Business Outcome
+
+The Risk Analytics Dashboard enables stakeholders to:
+
+- Identify high-risk shipments requiring immediate attention.
+- Compare environmental conditions across different commodities.
+- Evaluate vibration-related shipment risks.
+- Analyze recommended operational actions.
+- Compare destination-wise market values.
+- Continuously monitor shipment risk through interactive KPIs and visualizations.
+- Support proactive, data-driven logistics and transportation decisions.
+
+---
+
+# 📈 Overall Business Impact
+
+The AtmoSync project transformed raw IoT shipment data into **actionable business intelligence** through a progressive three-stage analytics approach.
+
+### ✅ Phase 1 — Executive Visibility
+
+Developed an **Executive Overview Dashboard** that provided management with a centralized view of shipment performance, environmental conditions, and key operational KPIs, enabling faster strategic decision-making.
+
+### ✅ Phase 2 — Operational Monitoring
+
+Built a **Historical Route & Environmental Monitoring Dashboard** that helped operations teams analyze shipment distribution, monitor environmental conditions across destinations and commodities, and identify vulnerable transportation routes.
+
+### ✅ Phase 3 — Risk Intelligence
+
+Designed a **Risk Analytics Dashboard** that enabled logistics managers to identify high-risk shipments, evaluate environmental risk factors, monitor market trends, and prioritize operational actions based on interactive risk insights.
+
+---
+
+## 🚀 Business Value Delivered
+
+Through these three dashboards, the project enables logistics managers and business stakeholders to:
+
+- 📊 Monitor shipment performance from a centralized executive dashboard.
+- 🌍 Analyze shipment routes and environmental conditions.
+- ⚠️ Detect high-risk shipments before potential spoilage.
+- 📈 Evaluate commodity-specific and destination-specific risk patterns.
+- 💰 Compare market price variations across destinations.
+- 🎯 Prioritize operational actions using risk-based insights.
+- 📉 Reduce manual analysis through interactive dashboards.
+- 🤝 Support faster, data-driven transportation and supply chain decisions.
 
