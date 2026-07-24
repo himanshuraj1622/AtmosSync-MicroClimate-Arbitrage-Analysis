@@ -143,3 +143,90 @@ The dataset was cleaned and transformed using **Power Query**.
 - Risk Category Analysis
 
 ---
+# 📊 Dashboard Development
+
+---
+
+# 📄 Page 1 — Executive Overview
+
+## 🎯 Dashboard Objective
+
+The **Executive Overview Dashboard** provides a centralized view of shipment performance and environmental conditions. It enables stakeholders to monitor key business metrics, evaluate spoilage risk, and gain quick insights into overall logistics operations.
+
+### 📌 KPI Cards
+
+- 📦 Total Containers
+- 🌡️ Average Temperature
+- 💧 Average Humidity
+- ⚠️ Average Spoilage Risk
+- 💰 Average Market Price
+
+### 📈 Visualizations
+
+- 🍩 Shipment Action Distribution
+- 📊 Average Spoilage Risk by Commodity
+- 📍 Risk by Destination
+- 📈 Average Temperature Trend
+
+### 🎛️ Interactive Filters
+
+- Commodity
+- Destination
+- Recommended Action
+
+---
+
+# 📄 Week 1 — Executive Overview Dashboard
+
+## 🔴 Business Problem
+
+The logistics management team lacked a centralized view of shipment performance and environmental conditions. As a result, decision-makers faced challenges in answering key operational questions, such as:
+
+- How many containers are currently being monitored?
+- What are the average environmental conditions across shipments?
+- What is the overall spoilage risk?
+- Which shipment action is recommended most frequently?
+
+Without an executive-level dashboard, managers had to analyze raw datasets manually, making it difficult to identify operational issues and make timely decisions.
+
+---
+
+## ✅ Solution Implemented
+
+Developed an **Executive Overview Dashboard** that consolidated the most critical operational KPIs and visualizations into a single interactive dashboard.
+
+### Key Features
+
+**📌 KPI Cards**
+
+- Total Containers
+- Average Temperature
+- Average Humidity
+- Average Spoilage Risk
+- Average Market Price
+
+**📊 Visualizations**
+
+- Shipment Action Distribution
+- Commodity-wise Spoilage Risk Analysis
+- Destination-wise Risk Analysis
+- Temperature Trend Analysis
+
+**🎛️ Interactive Filters**
+
+- Commodity
+- Destination
+- Recommended Action
+
+---
+
+## 🎯 Business Outcome
+
+The Executive Overview Dashboard enabled management to:
+
+- Gain a centralized view of shipment performance.
+- Monitor environmental conditions in real time.
+- Identify high-risk shipments quickly.
+- Analyze spoilage trends across commodities and destinations.
+- Support faster, data-driven operational decision-making.
+- Reduce manual analysis by providing interactive business insights through a single dashboard.
