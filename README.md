@@ -230,3 +230,91 @@ The Executive Overview Dashboard enabled management to:
 - Analyze spoilage trends across commodities and destinations.
 - Support faster, data-driven operational decision-making.
 - Reduce manual analysis by providing interactive business insights through a single dashboard.
+
+  ---
+  ---
+
+# 📄 Page 2 — Historical Route & Environmental Monitoring
+
+## 🎯 Dashboard Objective
+
+The **Historical Route & Environmental Monitoring Dashboard** provides operational visibility into shipment routes and environmental conditions. It enables logistics teams to analyze shipment distribution, monitor temperature variations, and identify routes or commodities that require closer operational attention.
+
+### 📌 KPI Cards
+
+- 📦 Total Shipments
+- 🌡️ Average Temperature
+- 🔥 Maximum Temperature
+- ❄️ Minimum Temperature
+
+### 📈 Visualizations
+
+- 📍 Shipment Distribution by Destination
+- 🌡️ Average Temperature by Destination
+- 🥑 Average Temperature by Commodity
+- 📦 Shipment Count by Commodity
+
+### 🎛️ Interactive Filters
+
+- Commodity
+- Destination
+- Recommended Action
+
+---
+
+# 📄 Week 2 — Historical Route & Environmental Monitoring
+
+## 🔴 Business Problem
+
+After developing the Executive Overview Dashboard, management gained a high-level summary of shipment performance. However, operational teams still lacked detailed insights into shipment movement and environmental conditions.
+
+Key business questions remained unanswered:
+
+- Which destinations receive the highest number of shipments?
+- Which commodities are exposed to higher environmental conditions?
+- How does temperature vary across different destinations?
+- Are specific transportation routes more vulnerable than others?
+
+The Executive Overview Dashboard provided strategic insights but lacked operational-level monitoring required for day-to-day logistics management.
+
+---
+
+## ✅ Solution Implemented
+
+Developed the **Historical Route & Environmental Monitoring Dashboard** to provide detailed operational insights into shipment distribution and environmental conditions across commodities and destinations.
+
+### Key Features
+
+**📌 KPI Cards**
+
+- Total Shipments
+- Average Temperature
+- Maximum Temperature
+- Minimum Temperature
+
+**📊 Visualizations**
+
+- Shipment Distribution by Destination
+- Average Temperature by Destination
+- Average Temperature by Commodity
+- Shipment Count by Commodity
+
+**🎛️ Interactive Filters**
+
+- Commodity
+- Destination
+- Recommended Action
+
+---
+
+## 🎯 Business Outcome
+
+The Historical Route & Environmental Monitoring Dashboard enabled operations teams to:
+
+- Monitor shipment distribution across destinations.
+- Compare environmental conditions across commodities.
+- Identify destinations experiencing higher temperature exposure.
+- Improve route monitoring through interactive visualizations.
+- Support operational planning with location-specific insights.
+- Detect transportation patterns that may require proactive intervention.
+
