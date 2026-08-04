@@ -397,6 +397,19 @@ Developed the **Risk Analytics Dashboard** to evaluate shipment risk and provide
 - Risk Category
 
 ---
+## 🎯 Business Outcome
+
+The Risk Analytics Dashboard enables stakeholders to:
+
+- Identify high-risk shipments requiring immediate attention.
+- Compare environmental conditions across different commodities.
+- Evaluate vibration-related shipment risks.
+- Analyze recommended operational actions.
+- Compare destination-wise market values.
+- Continuously monitor shipment risk through interactive KPIs and visualizations.
+- Support proactive, data-driven logistics and transportation decisions.
+
+---
 ## 📄 Page 4 — Business Insights & Decision Support
 
 ### 🎯 Dashboard Objective
@@ -438,19 +451,7 @@ Commodity
 Destination
 
 Recommended Action
-## 🎯 Business Outcome
 
-The Risk Analytics Dashboard enables stakeholders to:
-
-- Identify high-risk shipments requiring immediate attention.
-- Compare environmental conditions across different commodities.
-- Evaluate vibration-related shipment risks.
-- Analyze recommended operational actions.
-- Compare destination-wise market values.
-- Continuously monitor shipment risk through interactive KPIs and visualizations.
-- Support proactive, data-driven logistics and transportation decisions.
-
----
 
 # 📈 Overall Business Impact
 
