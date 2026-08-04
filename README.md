@@ -452,6 +452,68 @@ Destination
 
 Recommended Action
 
+---
+
+## 📄 Week 4 — Business Insights & Decision Support Dashboard
+
+### 🔴 Business Problem
+
+After building Executive, Operational, and Risk Analytics dashboards, management had access to detailed shipment information and risk metrics. However, they still lacked a unified decision-support dashboard that could summarize key business insights and help executives make faster strategic decisions.
+
+Several important business questions remained unanswered:
+
+- Which commodity contributes the highest shipment volume?
+- Which destination handles the largest number of shipments?
+- What is the most frequently recommended operational action?
+- Which commodity generates the highest average market value?
+- How can commodity and destination performance be compared efficiently?
+- What are the key business insights that management should focus on?
+
+The organization required a dashboard that transformed analytical findings into actionable business intelligence for executive decision-making.
+
+---
+
+### ✅ Solution Implemented
+
+Developed the **Business Insights & Decision Support Dashboard** to consolidate key business insights, compare operational performance, and provide executive-level recommendations through dynamic KPIs, performance scorecards, and interactive visualizations.
+
+### Key Features
+
+#### 📌 KPI Cards
+
+- Most Shipped Commodity
+- Busiest Destination
+- Primary Recommended Action
+- Highest Value Commodity
+
+#### 📊 Visualizations
+
+- Commodity Performance Scorecard
+- Destination Performance Scorecard
+- Shipment Contribution by Destination (Tree map)
+- Recommended Actions by Commodity
+- Executive Recommendations Panel
+
+#### 🎛️ Interactive Filters
+
+- Commodity
+- Destination
+- Recommended Action
+
+---
+
+### 🎯 Business Outcome
+
+The Business Insights & Decision Support Dashboard enables stakeholders to:
+
+- Identify the highest-performing commodity based on shipment volume.
+- Recognize the busiest logistics destination for operational planning.
+- Compare commodity and destination performance through interactive scorecards.
+- Evaluate market value across commodities for better business prioritization.
+- Analyze shipment contribution across different destinations.
+- Understand the most frequently recommended operational actions.
+- Generate executive-level business insights through automated recommendations.
+- Support strategic, data-driven logistics and supply chain decision-making.
 
 # 📈 Overall Business Impact
 
