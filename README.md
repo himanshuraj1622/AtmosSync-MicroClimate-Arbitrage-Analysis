@@ -514,26 +514,26 @@ The Business Insights & Decision Support Dashboard enables stakeholders to:
 - Understand the most frequently recommended operational actions.
 - Generate executive-level business insights through automated recommendations.
 - Support strategic, data-driven logistics and supply chain decision-making.
+---
+## 📈 Overall Business Impact
 
-# 📈 Overall Business Impact
-
-The AtmoSync project transformed raw IoT shipment data into **actionable business intelligence** through a progressive three-stage analytics approach.
+The AtmoSync project transformed raw IoT shipment data into actionable business intelligence through a progressive four-stage analytics approach.
 
 ### ✅ Phase 1 — Executive Visibility
 
-Developed an **Executive Overview Dashboard** that provided management with a centralized view of shipment performance, environmental conditions, and key operational KPIs, enabling faster strategic decision-making.
+Developed an Executive Overview Dashboard that provided management with a centralized view of shipment performance, environmental conditions, and key operational KPIs, enabling faster strategic decision-making.
 
 ### ✅ Phase 2 — Operational Monitoring
 
-Built a **Historical Route & Environmental Monitoring Dashboard** that helped operations teams analyze shipment distribution, monitor environmental conditions across destinations and commodities, and identify vulnerable transportation routes.
+Built a Historical Route & Environmental Monitoring Dashboard that helped operations teams analyze shipment distribution, monitor environmental conditions across destinations and commodities, and identify vulnerable transportation routes.
 
 ### ✅ Phase 3 — Risk Intelligence
 
-Designed a **Risk Analytics Dashboard** that enabled logistics managers to identify high-risk shipments, evaluate environmental risk factors, monitor market trends, and prioritize operational actions based on interactive risk insights.
+Designed a Risk Analytics Dashboard that enabled logistics managers to identify high-risk shipments, evaluate environmental risk factors, monitor market trends, and prioritize operational actions based on interactive risk insights.
 
 ### ✅ Phase 4 — Business Decision Support
 
-Developed a **Business Insights & Decision Support Dashboard** that transformed analytical findings into executive-level business intelligence by highlighting top-performing commodities, busiest destinations, operational recommendations, and comparative performance scorecards. The dashboard empowers business stakeholders to evaluate operational performance, prioritize strategic actions, and make faster, data-driven logistics and supply chain decisions through actionable insights and executive recommendations.
+Developed a Business Insights & Decision Support Dashboard that transformed analytical findings into executive-level business intelligence by highlighting top-performing commodities, busiest destinations, operational recommendations, and comparative performance scorecards. The dashboard empowers business stakeholders to evaluate operational performance, prioritize strategic actions, and make faster, data-driven logistics and supply chain decisions through actionable insights and executive recommendations.
 ---
 
 ## 🚀 Business Value Delivered
