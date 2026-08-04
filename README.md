@@ -397,7 +397,47 @@ Developed the **Risk Analytics Dashboard** to evaluate shipment risk and provide
 - Risk Category
 
 ---
+## 📄 Page 4 — Business Insights & Decision Support
 
+### 🎯 Dashboard Objective
+
+The Business Insights & Decision Support Dashboard provides executive-level insights by transforming operational and risk analytics into actionable business intelligence. It enables decision-makers to identify top-performing commodities, evaluate destination performance, monitor operational recommendations, and support strategic logistics planning through interactive dashboards and performance scorecards.
+
+---
+
+### 📌 KPI Cards
+
+📦 Most Shipped Commodity
+
+📍 Busiest Destination
+
+🚚 Primary Recommended Action
+
+💰 Highest Value Commodity
+
+---
+
+### 📊 Visualizations
+
+📋 Commodity Performance Scorecard
+
+📋 Destination Performance Scorecard
+
+🌳 Shipment Contribution by Destination
+
+📊 Recommended Actions by Commodity
+
+📝 Executive Recommendations
+
+---
+
+### 🎛️ Interactive Filters
+
+Commodity
+
+Destination
+
+Recommended Action
 ## 🎯 Business Outcome
 
 The Risk Analytics Dashboard enables stakeholders to:
